@@ -1,4 +1,4 @@
 fn main() {
-    let mut spaces = "    ";
-    let spaces = spaces.len();
+    let spaces = "    ";
+    let _spaces = spaces.len();
 }
